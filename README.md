@@ -4,8 +4,8 @@ VPS server speedtest checker
 
 - sudo apt-get install curl && curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
 - sudo apt-get install speedtest
-- speedtest
 - speedtest --accept-license --accept-gdpr
+- speedtest
 
 
 Alternative loop
