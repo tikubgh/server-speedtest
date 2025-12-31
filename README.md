@@ -6,10 +6,10 @@ VPS server speedtest checker
 - sudo apt-get install speedtest
 - speedtest
 
-## 🚀 Installation: Speedtest loop - Debian 13
-
+Alternative loop
 - sudo apt update && sudo apt install speedtest-cli
 - while true; do speedtest; sleep 5; done
+
 
 ## 🚀 Installation: Fast - Debian 13
 
