@@ -8,8 +8,8 @@ VPS server speedtest checker
 - speedtest
 
 
-Alternative loop
-- sudo apt update && sudo apt install speedtest-cli
+Alternative loop Python version
+- sudo apt update && sudo apt install speedtest-cli -y
 - while true; do speedtest; sleep 5; done
 
 
