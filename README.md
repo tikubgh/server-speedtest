@@ -6,7 +6,8 @@ VPS server speedtest checker
 - sudo apt-get install speedtest
 - speedtest --accept-license --accept-gdpr
 - speedtest
-- Single line command:sudo apt-get install -y curl && curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash && sudo apt-get install -y speedtest && speedtest --accept-license --accept-gdpr
+  
+- Single line command: sudo apt-get install -y curl && curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash && sudo apt-get install -y speedtest && speedtest --accept-license --accept-gdpr
 
 Alternative loop Python version
 - sudo apt update && sudo apt install speedtest-cli -y
