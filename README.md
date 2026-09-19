@@ -20,4 +20,5 @@ Alternative loop Python version
 - fast
 
 ## VPS server details :
-curl -sL yabs.sh | bash
+- curl -sL yabs.sh | bash
+- wget -qO- bench.sh | bash
