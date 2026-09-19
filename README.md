@@ -18,3 +18,6 @@ Alternative loop Python version
 
 - sudo snap install fast && fast || { sudo apt-get update && sudo apt-get install -y nodejs npm && sudo npm install -g fast-cli && fast; }
 - fast
+
+## VPS server details :
+curl -sL yabs.sh | bash
