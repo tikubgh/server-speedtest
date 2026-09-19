@@ -16,5 +16,5 @@ Alternative loop Python version
 
 ## 🚀 Installation: Fast - Debian 13
 
-- curl -sSL https://raw.githubusercontent.com/mikkelam/fast-cli/main/install.sh | bash
-- fast-cli --upload
+- sudo snap install fast && fast || { sudo apt-get update && sudo apt-get install -y nodejs npm && sudo npm install -g fast-cli && fast; }
+- fast
