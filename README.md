@@ -21,5 +21,5 @@ Alternative loop Python version
 
 ## VPS server details :
 - curl -sL yabs.sh | bash
-- wget -qO- bench.sh | bash
+- curl -Lso- bench.sh | bash
 - curl -sL bench.laset.com | bash
