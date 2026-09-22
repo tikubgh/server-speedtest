@@ -23,3 +23,6 @@ Alternative loop Python version
 - curl -sL yabs.sh | bash
 - curl -Lso- bench.sh | bash
 - curl -sL bench.laset.com | bash
+
+## ip address:
+curl -4 ifconfig.me
